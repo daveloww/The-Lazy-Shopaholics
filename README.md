@@ -125,7 +125,7 @@ You will be prompted to log in to a Github account. Please log in to your Github
 ## Running the Application
 Please ensure that you have fulfilled the [prerequisites](#Prerequisites) and accomplished the steps in [getting started](#Getting-Started) above.
 
-If have already done so, all you have to do is to start WAMP/MAMP, launch your web browser, and type in [http://localhost/app](http://localhost/app)
+If have already done so, all you have to do is to start WAMP/MAMP, launch your web browser, and type in [http://localhost/The-Lazy-Shopaholics](http://localhost/The-Lazy-Shopaholics)
 
 [Back To The Top](#The-Lazy-Shopaholics)
 
