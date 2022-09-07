@@ -102,7 +102,7 @@ You will be prompted to log in to a Github account. Please log in to your Github
    - Navigate to WAMP/MAMP root directory > "The-Lazy-Shopaholics" directory ([previously cloned](#Clone-Repository)) > "database" directory > "load.sql" file
    - Click the "Go" button at the bottom
    - Upon completion, you should see a green prompt stating that "*Import has been successfully finished..*" and the newly created database schema "lazy_shopaholics" should appear at the left
-4. Launch an IDE of your choice and navigate to the "app" directory > "include" directory > "ConnectionManager.php" file
+4. Launch an IDE of your choice and navigate to the "The-Lazy-Shopaholics" directory > "include" directory > "ConnectionManager.php" file
 5. In line 7 and 8, please enter the username and password that you used in step 2
 6. In line 9, please enter the port number used by phpMyAdmin. If unsure, you can check by logging into phpMyAdmin - the port number is shown at the top level corner, beside the logo, in the form of "Server: MySQL: XXXX". XXXX is the port number
 
@@ -111,11 +111,11 @@ You will be prompted to log in to a Github account. Please log in to your Github
 ### API Key Setup
 1. Log in to your account at RapidAPI and copy your API key
 2. Launch an IDE of your choice
-3. Navigate to the "app" directory > "script" directory > "populate_**category**.js" file
+3. Navigate to the "The-Lazy-Shopaholics" directory > "script" directory > "populate_**category**.js" file
 3. In line 2, paste the API key
-4. Navigate to the "app" directory > "script" directory > "populate_**index**.js" file
+4. Navigate to the "The-Lazy-Shopaholics" directory > "script" directory > "populate_**index**.js" file
 5. In lines 24, 364, and 407, paste the API key
-6. Navigate to the "app" directory > "script" directory > "populate_**search**.js" file
+6. Navigate to the "The-Lazy-Shopaholics" directory > "script" directory > "populate_**search**.js" file
 7. In lines 32, 375, and 418, paste the API key
 
 [Back To The Top](#The-Lazy-Shopaholics)
