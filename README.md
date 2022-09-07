@@ -99,7 +99,7 @@ You will be prompted to log in to a Github account. Please log in to your Github
 3. At the homepage:
    - Click the "Import" tab
    - Click the "Choose File" button
-   - Navigate to WAMP/MAMP root directory > "app" directory ([previously cloned](#Clone-Repository)) > "database" directory > "load.sql" file
+   - Navigate to WAMP/MAMP root directory > "The-Lazy-Shopaholics" directory ([previously cloned](#Clone-Repository)) > "database" directory > "load.sql" file
    - Click the "Go" button at the bottom
    - Upon completion, you should see a green prompt stating that "*Import has been successfully finished..*" and the newly created database schema "lazy_shopaholics" should appear at the left
 4. Launch an IDE of your choice and navigate to the "app" directory > "include" directory > "ConnectionManager.php" file
