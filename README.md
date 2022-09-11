@@ -27,7 +27,7 @@
 <br>
 
 ## Introduction
-We all know that the same product could be sold on MILLION e-commerce websites and listed at DIFFERENT PRICES! We all know the pain of going through MILLION websites.. just to compare prices to get the BEST DEAL! But calm down.. The Lazy Shopholics app is here to save you! 
+We all know that the same product could be sold on MILLION e-commerce websites and listed at DIFFERENT PRICES.. We all know the pain of going through MILLION websites.. just to compare prices to get the BEST DEAL. But calm down.. The Lazy Shopholics app is here to save you! 
 
 The Lazy Shopaholics is created to save your precious time and effort as it aggregates product search results from multiple e-commerece websites and render them nicely on a single page! NO NEED TO BROWSE MULTIPLE WEBSITES. It can also recommend popular items across e-commerce sites. Most importantly as our target audience are Singaporeans, prices that are denominated in foreign currency are all converted to SGD for you. 
 
